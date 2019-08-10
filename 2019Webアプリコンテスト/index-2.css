@@ -1,0 +1,41 @@
+div {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 15px; 
+    color: rgb(54, 163, 11);
+}
+input {
+    text-align: center;
+    border: 0;
+    padding: 10px;
+    font-size: 1.3em;
+    font-family: Arial, sans-serif;
+    color: rgb(14, 58, 109);
+    border: solid 1px #ccc;
+    margin: 0 0 20px;
+    height: 30px;   
+}
+input:focus {
+    border: solid 3px rgb(14, 58, 109);
+}
+#assessment {
+    border-radius: 5px;
+    padding: 5px 20px;
+    background-color: rgb(28, 94, 236);
+    border-style: none;
+    color: white;
+    height: 55px;
+}
+#next {
+    border-radius: 5px;
+    padding: 5px 20px;
+    background-color: rgb(7, 7, 158);
+    border-style: none;
+    color: white;
+    height: 55px;
+}
+#top {
+    float: right;
+}

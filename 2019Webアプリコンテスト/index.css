@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px; 
+}
+.title {
+    text-align: center;
+    font-size: 60px;
+    color: whitesmoke;
+    background-color: black;
+}
+.front {
+    background-color: black;
+}
+.text {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    color: rgb(255, 51, 0);
+    font-size: 25px;
+}
+.hp {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    font-size: 35px;
+}
+.easy {
+    border-style: none;
+    background: rgb(5, 170, 41);
+    color: whitesmoke;
+    font-size: 35px;
+    border-bottom: solid 4px rgb(1, 43, 7);
+    border-radius: 3px;
+    width: 500px;
+    height: 50px;
+    margin: 60px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.nomal {
+    border-style: none;
+    background: rgb(0, 204, 255);
+    color: whitesmoke;
+    font-size: 35px;
+    border-bottom: solid 4px rgb(2, 53, 129);
+    border-radius: 3px;
+    width: 500px;
+    height: 50px;
+    margin: 60px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.hard {
+    border-style: none;
+    background: rgb(206, 192, 3);
+    color: whitesmoke;
+    font-size: 35px;
+    border-bottom: solid 4px rgb(105, 86, 1);
+    border-radius: 3px;
+    width: 500px;
+    height: 50px;
+    margin: 60px;
+    margin-top: 0px;
+}

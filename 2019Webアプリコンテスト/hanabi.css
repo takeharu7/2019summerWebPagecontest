@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(1, 1, 51);
+}
+#font{
+    color: gold;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+#top{
+    color: red;
+}
+#pink{
+    color: lightsalmon;
+    text-align: center;
+    margin-top: 200px;
+}
+#green{
+    color: rgb(5, 255, 38);
+    float: left;
+}
+#yellow{
+    color: rgb(229, 255, 0);
+    float: right;
+}
